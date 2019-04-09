@@ -1,0 +1,5 @@
+S AB BD BV
+D AB
+A BA a
+B aa VD DV DD b
+V a

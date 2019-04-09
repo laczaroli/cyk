@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/laczaroli/CLionProjects/cyk/main.cpp
+iostream
+-
+string
+-
+vector
+-
+iterator
+-
+algorithm
+-
+fstream
+-
+sstream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cyk.dir/main.cpp.o  -o cyk 
