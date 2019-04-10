@@ -1,5 +1,5 @@
-S AB BD BV
-D AB
-A BA a
-B aa VD DV DD b
-V a
+S AB CD CB SS
+A BC a
+B SC b
+C DD b
+D BA
